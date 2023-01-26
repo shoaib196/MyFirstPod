@@ -1,0 +1,27 @@
+{
+  "name": "MyFirstPod",
+  "version": "0.1.0",
+  "summary": "its a dummy pod only for testing.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/shoaib196/MyFirstPod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "shoaib196": "wasi.zafar@upgenicsint.work"
+  },
+  "source": {
+    "git": "https://github.com/shoaib196/MyFirstPod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "MyFirstPod/Classes/**/*",
+  "resource_bundles": {
+    "Resources": [
+      "MyFirstPod/Assets/spiderman.png"
+    ]
+  }
+}
