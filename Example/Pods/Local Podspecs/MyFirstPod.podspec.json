@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "summary": "its a dummy pod only for testing.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/shoaib196/MyFirstPod",
+  "homepage": "https://github.com/shoaib196/MyFirstPod/tree/master",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -15,6 +15,7 @@
     "git": "https://github.com/shoaib196/MyFirstPod.git",
     "tag": "0.1.0"
   },
+  "swift_versions": "5.0",
   "platforms": {
     "ios": "10.0"
   },
@@ -23,5 +24,6 @@
     "Resources": [
       "MyFirstPod/Assets/spiderman.png"
     ]
-  }
+  },
+  "swift_version": "5.0"
 }
